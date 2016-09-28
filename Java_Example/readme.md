@@ -1,0 +1,1 @@
+This was an early assignment in my Java course that is only a simple command prompt shopping application
